@@ -111,8 +111,6 @@ if __name__ == "__main__":
             root_node = new_node
         j = 0
         root_node = old_root_node
-    i = 0
-    visited = []
 
     list_of_words = []
     counter = int(input())
